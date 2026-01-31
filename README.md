@@ -1,5 +1,5 @@
 Autonomous Search and Rescue: Terrain Segmentation & Casualty Allocation
-🚁 About the Project
+ About the Project
 This project was developed for the UAS-DTU Technical Round. It solves the challenge of autonomous disaster response by combining Computer Vision and Decision Logic.
 
 The pipeline takes aerial images of disaster zones and performs two critical tasks:
@@ -18,7 +18,7 @@ r
 ​
  ): Automatically calculates the mission efficiency score.
 
-🛠️ How to Use
+ How to Use
 1. Prerequisites
 Ensure you have Python 3.10+ installed. It is recommended to use the provided virtual environment (env).
 
@@ -77,4 +77,4 @@ PowerShell
 git add README.md
 git commit -m "Added professional README"
 git push origin main
-Would you like me to help you generate the requirements.txt file now to make sure the "How to Use" section actually works for the judges?
+
